@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\
+D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\
 Navigation_Drawer_App
 none
 false
 DEBUG;TRACE
-C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\App.xaml
-11151548125
+D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\App.xaml
+32074361214
 
-61270443918
-13-1505183044
-MainWindow.xaml;
+7360148992
+13-1310406943
+HomePage.xaml;MainWindow.xaml;Pages\ChatPage.xaml;
 
-False
+True
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Navigation_Drawer_App.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -67,6 +68,13 @@ namespace Navigation_Drawer_App
         private void CloseBtn_Click(object sender, RoutedEventArgs e)
         {
             Close();
+        }
+
+        private void ListViewItem_Selected(object sender, RoutedEventArgs e)
+        {
+            // 切换到ChatPage
+            MainContentFrame.Navigate(new ChatPage());
+            
         }
     }
 }

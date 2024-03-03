@@ -41,3 +41,7 @@ D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigat
 D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
 D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
 D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\HomePage.g.cs
+D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\Pages\ChatPage.g.cs
+D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\HomePage.baml
+D:\Users\wufeifan\Documents\GitHub\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\Navigation Drawer App\obj\Debug\Pages\ChatPage.baml
